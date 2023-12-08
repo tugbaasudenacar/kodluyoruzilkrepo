@@ -6,4 +6,4 @@ https://github.com/tugbaasudenacar/kodluyoruzilkrepo.git
 
 
 ## Usage
-ekranalintisi.jpg
+![Projemle ilgili reslim ekim] (images/ekranalintisi.jpg)
