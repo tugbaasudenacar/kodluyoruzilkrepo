@@ -6,3 +6,4 @@ https://github.com/tugbaasudenacar/kodluyoruzilkrepo.git
 
 
 ## Usage
+ekranalintisi.jpg
